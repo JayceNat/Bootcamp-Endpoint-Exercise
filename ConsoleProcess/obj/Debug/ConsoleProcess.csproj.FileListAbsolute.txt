@@ -1,0 +1,34 @@
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\ConsoleProcess.exe.config
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\ConsoleProcess.exe
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\ConsoleProcess.pdb
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\BootcampEndpointCodingExercise.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\System.Web.Http.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\BootcampEndpointCodingExercise.pdb
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\BootcampEndpointCodingExercise.dll.config
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\System.Web.Http.xml
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.csprojAssemblyReference.cache
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.csproj.CoreCompileInputs.cache
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.csproj.CopyComplete
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.exe
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.pdb
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\ConsoleProcess.exe.config
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\ConsoleProcess.exe
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\ConsoleProcess.pdb
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\BootcampEndpointCodingExercise.dll
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\System.Web.Http.dll
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\BootcampEndpointCodingExercise.pdb
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\BootcampEndpointCodingExercise.dll.config
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\System.Web.Http.xml
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.csprojAssemblyReference.cache
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.csproj.CoreCompileInputs.cache
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.csproj.CopyComplete
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.exe
+C:\Users\meyerja\OneDrive - Vertafore, Inc\Bootcamp Exercise\BootcampEndpointCodingExercise\ConsoleProcess\obj\Debug\ConsoleProcess.pdb

@@ -1,0 +1,14 @@
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\bin\Debug\EndpointTests.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\bin\Debug\EndpointTests.pdb
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\obj\Debug\EndpointTests.csprojAssemblyReference.cache
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\obj\Debug\EndpointTests.csproj.CoreCompileInputs.cache
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\obj\Debug\EndpointTests.csproj.CopyComplete
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\obj\Debug\EndpointTests.dll
+C:\Users\meyerja\Documents\Side Projects\BootcampEndpointCodingExercise\EndpointTests\obj\Debug\EndpointTests.pdb
